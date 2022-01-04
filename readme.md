@@ -5,7 +5,7 @@ Currently I am learning blockchain and its implementation in the making of crypt
 Google Code in 2019 Finalist for Fedora Project.
 #### Github Stats
 
-![Ayush19-01's github stats](https://github-readme-stats.vercel.app/api?username=Ayush19-01&count_private=true&theme=tokyonight,prs)
+![Ayush19-01's github stats](https://github-readme-stats.vercel.app/api?username=Ayush19-01&count_private=false&theme=tokyonight&,prs)
 
 </details>
 
