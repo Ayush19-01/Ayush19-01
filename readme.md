@@ -4,7 +4,7 @@ I'm Ayush Sharma and I am interested in Machine Learning and Artificial Intellig
 Currently I am learning blockchain and its implementation in the making of cryptcurrency.
 #### Github Stats
 
-![Ayush19-01's github stats](https://github-readme-stats.vercel.app/api?username=Ayush19-01&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ayush19-01's github stats](https://github-readme-stats.vercel.app/api?username=Ayush19-01&count_private=false&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
