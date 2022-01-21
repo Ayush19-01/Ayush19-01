@@ -4,7 +4,7 @@ I'm Ayush Sharma and I am interested in Machine Learning and Artificial Intellig
 
 Currently I am learning blockchain and its implementation in the making of cryptocurrency.
 
-Google Code in 2019 Finalist for Fedora Project.
+Google Code in'19 Finalist for Fedora Project.
 
 #### Github Stats
 
