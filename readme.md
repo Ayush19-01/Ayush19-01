@@ -1,8 +1,10 @@
 ## Hi I'm Ayush <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ayush Sharma and I am interested in Machine Learning and Artificial Intelligence.
+I'm Ayush Sharma and I am interested in Application of ML and AI in the MetaVerse.
 
-Currently I am learning blockchain and its implementation in the making of cryptocurrency.
+Currently I am learning web development with HTML, CSS and JavaScript.
+
+I have a really strong foundation in Python and feel very confident with web scraping, automation and app dev with kivy.
 
 Google Code-in'19 Finalist for Fedora Project.
 
