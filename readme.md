@@ -38,7 +38,7 @@ Google Code-in'19 Finalist for Fedora Project.
 </h1>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ayush19-01&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ayush19-01&area_color=bb92ef&point=ff897a&color=bb92ef&line=7a5f9d&bg_color=1a1b27&_border=true"/>
 </p>
 
 
