@@ -2,7 +2,7 @@
 
 I'm Ayush Sharma and I am interested in Application of ML and AI in the Metaverse. 🔮
 
-Currently I am learning web development with HTML, CSS and JavaScript. 💻
+Currently I am working on a medical diagonosis chatbot. 💻
 
 I have a really strong foundation in Python and feel very confident with web scraping, automation and app dev with kivy. 🐍 💬 
 
